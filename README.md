@@ -50,4 +50,5 @@ TensorFlow, OpenCV, PyTorch, pandas, WooCommerce, WordPress
 ---
 
 ### ⏱ WakaTime Stats
-![WakaTime](https://wakatime.com/share/@istimons.svg)
+![WakaTime]([https://wakatime.com/share/@istimons.svg](https://github-readme-stats.vercel.app/api/wakatime?username=istimons&theme=radical)](https://wakatime.com/@istimons)) 
+
