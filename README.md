@@ -40,7 +40,7 @@ TensorFlow, OpenCV, PyTorch, pandas, WooCommerce, WordPress
 ---
 
 ### 📫 Connect with me
-[GitHub](https://github.com/istimons) • [Twitter](https://x.com/NjuhiguIstimons) • [Medium]([https://medium.com/](https://istimons.medium.com/)  
+[GitHub](https://github.com/istimons) • [Twitter](https://x.com/NjuhiguIstimons) • [Medium](https://istimons.medium.com/)  
 
 ---
 
